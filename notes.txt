@@ -1,0 +1,8 @@
+nvm use 20.17
+yarn; yarn dev
+
+
+backend:
+cd backend-react-hook-form-mui-zod-main
+npm i;
+npm run start
